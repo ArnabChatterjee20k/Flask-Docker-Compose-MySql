@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+
+    "local_uri": "mysql://root:@localhost/common blog",
+    "prod_uri": "mysql://root:@localhost/common blog",
+    "blog_name": "Code Blog",
+    "blog_tag": "Love to code",
+    "gmail-user":"codeblog.1st@gmail.com",
+    "gmail-password": "codeblog@arnab",
+    "about": "Hi I am Arnab and I have developed this  blog",
+    "no_of_post": "5",
+    "login_image": "c.jpg",
+    "admin_user":"codeblog",
+    "admin_password": "codeblog",
+    "upload_location": "D:\\Python\\flsk\\static"
+
+  }
+}
